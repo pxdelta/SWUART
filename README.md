@@ -8,6 +8,4 @@ Compiled with IAR Embedded Workbench for STMicroelectronics STM8 version 2.20.2
 Tested on
 STM8S105C6T6 microcontroller, 32 KB Flash, 2 KB RAM, 1 KB EEPROM
 
-In tests, I get some reception errors when using other periodical interrupts.
-
 Joel Langer 2018 joellanger@gmail.com
